@@ -1,7 +1,10 @@
 Chronic-Absenteeism-by-ELL
 
 [![Build Status](https://travis-ci.org/CT-Data-Collaborative/chronic-absenteeism-by-ELL.svg?branch=master)](https://travis-ci.org/CT-Data-Collaborative/chronic-absenteeism-by-ELL)
-A short description of the project.
+
+Chronic Absenteeism reports the percentage of chronically absent students during a school year, per subgroup.
+
+Data Source: <http://edsight.ct.gov/>
 
 ## License MIT
 
