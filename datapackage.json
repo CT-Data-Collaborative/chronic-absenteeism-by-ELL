@@ -1,7 +1,7 @@
 {
   "name": "chronic-absenteeism-by-ell",
   "datapackage_version": "1.0-beta.18",
-  "title": "Chronic Absenteeism by ELL",
+  "title": "Chronic Absenteeism by English Language Learner",
   "description": "Chronic Absenteeism reports the percentage of chronically absent students during a school year, per subgroup.",
   "version": "1.0",
   "licenses": [{
@@ -152,8 +152,8 @@
       "ckan_name": "Default",
 			"value": {
 				"Measure Type": "Percent",
-		 		"District": "Achievement First Bridgeport Academy District",
-		 		"Year": ["2011-2012"],
+		 		"District": "Connecticut",
+		 		"Year": ["2015-2016"],
 		 		"Variable": "Chronically Absent Students"
 			},
 		  	"type": "object"
